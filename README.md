@@ -101,3 +101,4 @@ $$\forall \varepsilon>0;\exists \delta(\varepsilon)>0;|\forall x>:0<|x_n - x_0| 
 - $\(\lim_{{n \to \infty}} \sqrt[n]{n^2+2^n}\)$
 - $\(\lim_{{n \to \infty}} \sqrt[n]{n^5+5^n}\)$
 - $\(\lim_{{n \to \infty}} \sqrt[n]{n^6+6^n}\)$
+- $\lim_{n \to \infty} {\sqrt{n+2} - 2\sqrt{n+1} +\sqrt{n}}$
