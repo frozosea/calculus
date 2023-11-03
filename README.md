@@ -96,3 +96,8 @@ $$\forall \varepsilon>0;\exists \delta(\varepsilon)>0;|\forall x>:0<|x_n - x_0| 
 - $\lim_{n \to \infty} {\frac{5n^2+3n+1}{n^3+n^2+5}}$
 - $\lim_{n \to \infty} {(1+\frac{5}{n})}^{n}$
 - $\lim_{n \to \infty} {(1+\frac{1}{4n})}^{8n}$
+- $\lim_{n\to{\infty}}{\sqrt[{n}]{n^{3}+3^{n}}}$
+- $\(\lim_{{n \to \infty}} \sqrt[n]{n^4+4^n}\)$
+- $\(\lim_{{n \to \infty}} \sqrt[n]{n^2+2^n}\)$
+- $\(\lim_{{n \to \infty}} \sqrt[n]{n^5+5^n}\)$
+- $\(\lim_{{n \to \infty}} \sqrt[n]{n^6+6^n}\)$
