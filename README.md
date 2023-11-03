@@ -139,7 +139,7 @@ $$\forall \varepsilon>0;\exists \delta(\varepsilon)>0;|\forall x>:0<|x_n - x_0| 
 $\frac{\frac{a}{b}}{\frac{c}{d}}=\frac{ad}{bc}$
 
 И обязательно повторить все тригонометрические формулы:
-
+![alt text](tr_formula.jpeg "Formulas")
 
 
 ## Хорошие примеры из учебника
