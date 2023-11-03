@@ -102,3 +102,60 @@ $$\forall \varepsilon>0;\exists \delta(\varepsilon)>0;|\forall x>:0<|x_n - x_0| 
 - $\(\lim_{{n \to \infty}} \sqrt[n]{n^5+5^n}\)$
 - $\(\lim_{{n \to \infty}} \sqrt[n]{n^6+6^n}\)$
 - $\lim_{n \to \infty} {\sqrt{n+2} - 2\sqrt{n+1} +\sqrt{n}}$
+
+# Производные
+
+Таблица производных:
+
+| Function Value          | Derivative             |
+|------------------------|------------------------|
+| $\(a\)$                  | $\(0\)$                  |
+| $\(x\)$                  | $\(1\)$                  |
+| $\(x^n\)$                | $\(n \cdot x^{n-1}\)$    |
+| $\(e^x\)$                | $\(e^x\)$                |
+| $\(a^x\)$                | $\(a^x \cdot \ln(a)\)$   |
+| $\(\ln(x)\)$             | $\(\frac{1}{x}\)$       |
+| $\(\log_a(x)\)$          | $\(\frac{1}{x \cdot \ln(a)}\)$ |
+| $\(\sin(x)\)$            | $\(\cos(x)\)$            |
+| $\(\cos(x)\)$            | $\(-\sin(x)\)$           |
+| $\(\tan(x)\)$            | $\(\sec^2(x)\)$           |
+| $\(\csc(x)\)$            | $\(-\csc(x) \cdot \cot(x)\)$ |
+| $\(\sec(x)\)$            | $\(\sec(x) \cdot \tan(x)\)$ |
+| $\(\cot(x)\)$            | $\(-\csc^2(x)\)$          |
+
+
+Операции с производными:
+
+| Operation           | Derivative                                      |
+|---------------------|------------------------------------------------|
+| $\(u(x) + v(x)\)$    | $\(u'(x) + v'(x)\)$                             |
+| $\(u(x) - v(x)\)$    | $\(u'(x) - v'(x)\)$                             |
+| $\(u(x) \cdot v(x)\)$| $\(u(x) \cdot v'(x) + u'(x) \cdot v(x)\)$       |
+| $\(\frac{u(x)}{v(x)}\$| $\(\frac{u'(x) \cdot v(x) - u(x) \cdot v'(x)}{(v(x))^2}\)$ |
+
+
+Еще неплохо было бы помнить как раскладывать многоэтажные дроби (я постоянно забываю):
+
+$\frac{\frac{a}{b}}{\frac{c}{d}}=\frac{ad}{bc}$
+
+И обязательно повторить все тригонометрические формулы:
+
+
+
+## Хорошие примеры из учебника
+
+- $y=x^3-3\sqrt{x}+\frac{2}{x}+5$
+- $y=3sinx-5cosx$
+- $y=xlnx$
+- $y=x^2log_2(x)+ln3$
+- $y=\frac{1+sinx}{1+cosx}$
+- $y=\frac{lnx}{x}$
+- $y=(x^2+1)(3x-1)(1-x^3)$
+- $y=(\sqrt{x}+1)(\frac{1}{\sqrt{x}}-1)$
+- $y=\sqrt{x}tanx+cotx$
+- $y=\frac{e^x}{x^2}+ln2$
+- $y=ln(x+\sqrt{a^2+x^2})$
+- $y=e^{arctan{\sqrt{x}}} + 2^{x^2}$
+- $y=ln(\sqrt{\frac{1-sin2x}{1+sin2x}})$
+- $y=sin[sin(sinx)]$
+
