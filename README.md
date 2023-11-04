@@ -192,3 +192,22 @@ $$\[(fg)'''(x) = f'''(x)g(x) + 3f''(x)g'(x) + 3f'(x)g''(x) + f(x)g'''(x)\]$$
 
 - $y = xlnx$
 - $y = \frac{1-x}{1+x}$
+
+
+# Неопределенные интегралы
+
+- $\int \frac{(1-x)^2}{\sqrt{x}}dx$
+- $\int 2\sin^2{\frac{x}{2}}dx$
+- $\int (\frac{2}{1+x^2} + \frac{3}{\sqrt{1-x^2}}) dx$
+- $\int \frac{\sqrt{1+x^2}}{\sqrt{1-x^3}}dx$
+- $\int {(1-\frac{1}{x^2})\sqrt{x\sqrt{x}}}dx$
+- $\int\frac{e^{2t}-1}{e^t-1} dt$
+
+
+- $\int (2x-1)^{99}dx$
+- $\int x\sqrt{x^2+1} dx$
+- $\int \frac{1}{(x+1)(x-2)} dx$
+- $\int \frac{ln^3x}{x} dx$
+- $\int \frac{sinx+cosx}{(sinx-cosx)^3} dx$
+- $\int \frac{1}{e^x+e^{-x}} dx$
+- $\int \frac{x^3}{3+x^2} dx$
