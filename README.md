@@ -211,3 +211,8 @@ $$\[(fg)'''(x) = f'''(x)g(x) + 3f''(x)g'(x) + 3f'(x)g''(x) + f(x)g'''(x)\]$$
 - $\int \frac{sinx+cosx}{(sinx-cosx)^3} dx$
 - $\int \frac{1}{e^x+e^{-x}} dx$
 - $\int \frac{x^3}{3+x^2} dx$
+- $\int \frac{x-2}{\sqrt{-x^2+2x+3}} dx$
+- $\int \frac{x-4}{\sqrt{-x^2+8x+15}} dx$
+- $\int xe^{-x} dx$
+- $\int lnx dx$
+- $\int \frac{lnx}{x^2} dx$
